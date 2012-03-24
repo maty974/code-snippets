@@ -2,7 +2,7 @@
 
 # @author: matthieu cadet
 # @contact: matthieu.cadet+coding@gmail.com
-# @summary: Some code snippet for The Foundry Nuke software
+# @summary: Some tcl code snippet for The Foundry Nuke software
 
 # put in label knob, just show the connected input node name
 input: [value input.name]
